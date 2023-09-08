@@ -1,6 +1,5 @@
 const mongoose = require("mongoose");
 
-// yeta hami git ko session ledai xam.
 const ExpenseSchema = new mongoose.Schema(
   {
     title: {
